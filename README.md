@@ -1,2 +1,2 @@
-# Evilzone Hash Challenge Code
+# Evilzone Hash 
 Evil zone hash challenge
